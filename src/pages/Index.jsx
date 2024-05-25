@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Container, VStack, Text, Input, Button, Box, Spinner, Alert, AlertIcon } from "@chakra-ui/react";
+import { Container, VStack, Text, Input, Button, Box, Alert, AlertIcon } from "@chakra-ui/react";
 import { FaVirus, FaSearch } from "react-icons/fa";
 import { IconButton } from "@chakra-ui/react";
 
